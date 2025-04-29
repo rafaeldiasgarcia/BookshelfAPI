@@ -32,7 +32,6 @@ Antes de começar, garanta que você tenha instalado:
 
 1.  **Clone o repositório (ou baixe os arquivos):**
     ```bash
-    # Se estiver usando Git (substitua pela URL do seu repositório se tiver um)
     git clone https://github.com/rafaeldiasgarcia/BookshelfAPI.git
     cd BookshelfAPI
     ```
