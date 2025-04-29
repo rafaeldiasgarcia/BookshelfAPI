@@ -1,0 +1,134 @@
+[
+  {
+    "id": "164bd732-41f6-45e7-8910-d3b4423c2590",
+    "title": "O Senhor dos Anéis",
+    "author": "J.R.R. Tolkien",
+    "year": 1955
+  },
+  {
+    "id": "e98bfe6c-6779-4c23-8602-4ae180ab5482",
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "year": 1899
+  },
+  {
+    "id": "9766f922-49fc-4824-93e8-aae331298021",
+    "title": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "year": 1881
+  },
+  {
+    "id": "b06f64a0-a743-42cf-aacf-c5a687893a60",
+    "title": "Grande Sertão: Veredas",
+    "author": "João Guimarães Rosa",
+    "year": 1956
+  },
+  {
+    "id": "e09d30f3-8dd5-4ddb-8ea0-f2934b98edb5",
+    "title": "Vidas Secas",
+    "author": "Graciliano Ramos",
+    "year": 1938
+  },
+  {
+    "id": "30969fba-cd9a-47b9-954a-ac63b1b88270",
+    "title": "Capitães da Areia",
+    "author": "Jorge Amado",
+    "year": 1937
+  },
+  {
+    "id": "b2be1bd8-baee-446d-afa3-cdfe7908896b",
+    "title": "O Cortiço",
+    "author": "Aluísio Azevedo",
+    "year": 1890
+  },
+  {
+    "id": "79804a26-11ae-4dbb-8faf-1b96ea35c2ad",
+    "title": "Macunaíma",
+    "author": "Mário de Andrade",
+    "year": 1928
+  },
+  {
+    "id": "e1063a6d-a6cc-48f2-bee8-97cc360a6d7d",
+    "title": "O Quinze",
+    "author": "Rachel de Queiroz",
+    "year": 1930
+  },
+  {
+    "id": "201aeada-b25f-4bf5-9564-da29b725256d",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949
+  },
+  {
+    "id": "d1630f4f-c6ad-45dc-86de-b184b0199f36",
+    "title": "Admirável Mundo Novo",
+    "author": "Aldous Huxley",
+    "year": 1932
+  },
+  {
+    "id": "ec8f6984-272d-4199-8060-a0962d67a574",
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "author": "J.R.R. Tolkien",
+    "year": 1954
+  },
+  {
+    "id": "0e17fa24-a1d5-42bc-8aaa-630da12535b8",
+    "title": "O Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937
+  },
+  {
+    "id": "f33d7b98-ecbb-49de-9cc2-6dc97d5e0cfd",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "author": "J.K. Rowling",
+    "year": 1997
+  },
+  {
+    "id": "e7efabe7-0ad9-4f31-8f5d-dc2b7e1d33e1",
+    "title": "Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+    "author": "C.S. Lewis",
+    "year": 1950
+  },
+  {
+    "id": "87b8e9b2-8ed8-488a-a29f-1260d253747d",
+    "title": "Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+    "author": "C.S. Lewis",
+    "year": 1950
+  },
+  {
+    "id": "60a66d3f-b8ea-4665-a297-cc1ac70c78c7",
+    "title": "Fundação",
+    "author": "Isaac Asimov",
+    "year": 1951
+  },
+  {
+    "id": "4e2b3e75-08ac-45a7-be37-94220e946369",
+    "title": "Duna",
+    "author": "Frank Herbert",
+    "year": 1965
+  },
+  {
+    "id": "b51efa81-7efa-470f-85d3-031a0e3c88f4",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953
+  },
+  {
+    "id": "a26fe277-9015-4c41-9ec8-478416a43f89",
+    "title": "O Guia do Mochileiro das Galáxias",
+    "author": "Douglas Adams",
+    "year": 1979
+  },
+  {
+    "id": "2cdf7b86-58db-4d35-a812-2ba9f4100f9a",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984
+  },
+  {
+    "id": "ba677416-0116-4fa6-99ed-e2f77e22d25d",
+    "title": "Orgulho e Preconceito",
+    "author": "Jane Austen",
+    "year": 1813
+  }
+]
